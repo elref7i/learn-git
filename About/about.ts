@@ -1,4 +1,5 @@
 let aboutImage = {
-  name: "ahmed Refai",
+  firstName: "Ahmed",
+  lastName: "khaled",
   age: 22,
 };
